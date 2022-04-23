@@ -1,0 +1,21 @@
+.flexbox {
+  display: flex;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0px 10px;
+}
+
+.item {
+  display: block;
+  box-sizing: border-box;
+}
+
+.content {
+  background-color: gold;
+  border: 2px solid black;
+  box-sizing: border-box;
+  margin: 10px;
+  font-size: 18px;
+  padding: 50px 50px;
+}
